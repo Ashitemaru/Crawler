@@ -1,0 +1,7 @@
+crawler/actorData/
+crawler/database/
+
+*.pdf
+*.zip
+
+crawler_without_data/

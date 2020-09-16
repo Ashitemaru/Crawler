@@ -5,3 +5,4 @@ crawler/database/
 *.zip
 
 crawler_without_data/
+.vscode/
